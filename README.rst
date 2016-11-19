@@ -1,6 +1,6 @@
 .. figure:: https://raw.githubusercontent.com/spotify/luigi/master/doc/luigi.png
    :alt: Luigi Logo
-   :align: center
+   :align: right
 
 .. image:: https://img.shields.io/travis/spotify/luigi/master.svg?style=flat
     :target: https://travis-ci.org/spotify/luigi
